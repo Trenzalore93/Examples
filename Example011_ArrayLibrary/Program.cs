@@ -18,7 +18,6 @@ void PrintArray(int[] col)
         position++;
     }
 }
-
 int IndexOf(int[] collection, int find)
 {
     int count = collection.Length;
